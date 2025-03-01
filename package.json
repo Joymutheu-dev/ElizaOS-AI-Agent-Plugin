@@ -1,0 +1,2 @@
+{ "name": "elizaos-ai-agent-plugin", "version": "1.0.0", "description": "A plugin for ElizaOS that enables AI agent creation based on NFT ownership.", "main": "plugin.ts", "scripts": { "build": "tsc", "start": "node dist/plugin.js" }, "dependencies": { "@elizaos/core": "^1.0.0" }, "devDependencies": { "typescript": "^5.0.0" }, "repository": { "type": "git", "url": "https://github.com/joymutheu-dev/elizaos-ai-agent-plugin.git" }, "keywords": [ "elizaos", "plugin", "AI", "NFT", "agent" ], "author": "Joy Mutheu", "license": "MIT" }
+
