@@ -1,0 +1,2 @@
+{ "compilerOptions": { "target": "ES6", "module": "CommonJS", "strict": true, "outDir": "dist", "rootDir": "src", "esModuleInterop": true, "forceConsistentCasingInFileNames": true, "skipLibCheck": true }, "include": ["src"], "exclude": ["node_modules", "dist"] }
+
