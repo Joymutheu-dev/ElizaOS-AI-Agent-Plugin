@@ -37,7 +37,7 @@ The **ElizaOS AI Agent Plugin** enables users to create a new AI agent based on 
    ```
 3. The plugin will handle the AI agent creation flow based on the user's NFT eligibility.
 
-## API Response Example
+## API Response 
 If the user has eligible NFTs:
 ```json
 {
